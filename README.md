@@ -8,7 +8,7 @@ worked on. The task was siple enough, but it was quite insightful in learning we
 ## Instructions
 -To start up this program, you will need to head to the project`s directory via the command prompt.
 
--type #scrapy crawl Amazon_Info -o items.csv and run the Spider.
+-type scrapy crawl Amazon_Info -o items.csv and run the Spider.
 
 
 
